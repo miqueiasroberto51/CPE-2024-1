@@ -1,0 +1,137 @@
+﻿1 - Categorize cada um dos seguintes itens como hardware ou software:
+  1. CPU - HARDWARE
+  2. Disco rígido- HARDWARE
+  3. Programa Word - SOFTWARE        
+  4. Instagram - SOFTWARE
+  5. Teclado- HARDWARE
+
+
+2 - O que é software e qual sua importância?
+
+
+R= A parte lógica do sistema, gerencia as tarefas em um sistema
+
+
+3 - Defina com suas próprias palavras o que é algoritmo.
+
+
+R= Instruções sequenciais bem definidas a fim de resolver uma questão
+
+
+4 - Cite exemplos de software usados na medicina, ciência no
+entretenimento que você conhece.
+
+
+R= Na ciência poderia citar o uso de um software para monitorar um marca passo, para entretenimento qualquer um no uso de games.
+
+
+5 - Quais softwares deixam sua vida mais fácil? Quais deixam sua vida
+mais complicada?
+
+
+R= Que facilitam posso citar os de meteorologia, de GPS, de delivery etc
+Que tendem a atrapalhar eu poderia citar são os Vírus.
+
+
+6 - Considere uma atividade de sua rotina diária. Como a computação
+está direta ou indiretamente envolvida?
+
+
+R= Como citado anteriormente, os métodos de deslocamento usando softwares seriam uma aplicação direta, indiretamente eu poderia citar os processamentos de pagamento, mesmo utilizando dinheiro físico, ainda tem processamento
+
+
+7 - A partir de sua experiência pessoal, descreva uma atividade que não
+seria possível sem computadores.
+
+
+R= Acredito, em minha experiência, que seria acessar a internet
+
+
+8 - Faça uma lista dos programas que você utiliza.
+
+
+R:         Instagram
+        Google maps
+        Google Docs
+        Google Drive
+        Adobe Acrobat
+        Autocad
+        Revit
+        
+
+
+9 - Faça uma lista com dez atividades que não utilizam computadores de
+nenhuma maneira.
+
+
+R:
+ Pintura de uma casa
+        Levantar uma parede usando tijolos
+        Tomar um banho
+        Correr
+        Comer
+        Vestir
+        
+        
+10 - Você acha que a inteligência artificial vai acabar com empregos na
+área da computação? Justifique.
+
+
+R: Acredito que sim, as atividades mais simples devem ser automatizadas, porém acredito que atividades mais específicas vão surgir
+
+
+11 - Descreva a capacidade de seu computador em termos de
+processamento, memória e armazenamento.
+
+
+R= Para processamento Intel(R) Core(TM) i7-9700 CPU @ 3.00GHz   3.00 GHz
+      Memória 16,0 GB 
+      Armazenamento: 1TB        
+
+
+12 - Descreva um algoritmo para resolver um cubo mágico.
+
+
+13 - Qual a diferença entre bit e byte?
+
+
+R: bit é a menor item de dado que um computador pode assumir, já o byte é o conjunto de 8 bits
+
+
+14 - Como representar números reais usando sistema binário?
+
+
+A maneira mais simples é usando potências de 10
+
+
+15 - Descreva os passos para converter o número decimal 150 para sua
+representação em binário.
+
+
+
+
+
+
+16 - Descreva o papel do scrum master, dono do produto e do time de
+desenvolvimento.
+
+
+O scrum master 
+
+
+
+
+17 - Descreva os comandos para mover, copiar, e remover arquivos
+usando linha de comando no sistema operacional que você utiliza.
+
+
+R:Mover = mv
+Copiar = cpoy
+Remover = Del
+
+
+18 - Qual o padrão IEEE para redes WiFi? E para o Bluetooth?
+
+
+R: O padrão do Wifi é o IEE 802.11 e o do Bluetooth é o IEE 802.16
+________________
